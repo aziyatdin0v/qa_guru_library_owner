@@ -2,8 +2,6 @@
 
 gradle clean test -Denv=local
 
+# Запуск тестов удалённо
 
-Запуск тестов удалённо
-```shell
 gradle clean test -Denv=remote
-```
